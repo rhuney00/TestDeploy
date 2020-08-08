@@ -1,0 +1,2 @@
+(this["webpackJsonptest-deploy"]=this["webpackJsonptest-deploy"]||[]).push([[0],[,,,function(e,t,n){e.exports=n(10)},,,,,function(e,t,n){},function(e,t,n){},function(e,t,n){"use strict";n.r(t);var a=n(0),c=n.n(a),o=n(2),r=n.n(o);n(8),n(9);var s=function(){return c.a.createElement("div",{className:"App"},c.a.createElement("h1",null,"Testing"))};r.a.render(c.a.createElement(s,null),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.05478712.chunk.js.map
